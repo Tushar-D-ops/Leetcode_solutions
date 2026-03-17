@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0189-rotate-array) |
+| [0239-sliding-window-maximum](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -67,4 +68,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
