@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0169-majority-element) |
 | [1980-find-unique-binary-string](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1980-find-unique-binary-string](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 ## Backtracking
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
