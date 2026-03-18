@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1980-find-unique-binary-string](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
+## Prefix Sum
+|  |
+| ------- |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 <!---LeetCode Topics End-->
