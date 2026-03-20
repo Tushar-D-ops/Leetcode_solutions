@@ -109,14 +109,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Geometry
 |  |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
