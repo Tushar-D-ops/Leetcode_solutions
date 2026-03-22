@@ -147,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
