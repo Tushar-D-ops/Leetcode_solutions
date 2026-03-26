@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -168,4 +169,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
+## Graph Theory
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Topological Sort
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
