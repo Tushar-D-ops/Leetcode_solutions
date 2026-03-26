@@ -8,11 +8,12 @@ class Solution {
         for(int arr[]:prerequisites){
             list.get(arr[0]).add(arr[1]);
         }
+        int[] pathvisited=new int[numCourses];
         int visited[]=new int[numCourses];
         ArrayList<Integer> ans=new ArrayList<>();
         for(int i=0;i<numCourses;i++){
             if(visited[i]==0){
-                int[] pathvisited=new int[numCourses];
+                
                 if(func(i,visited,pathvisited,list,ans)) return new int[]{};
             }
         }
