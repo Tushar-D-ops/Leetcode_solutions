@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
+| [0207-course-schedule](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0210-course-schedule-ii) |
 | [0565-array-nesting](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0565-array-nesting) |
 | [0802-find-eventual-safe-states](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
@@ -174,12 +175,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
