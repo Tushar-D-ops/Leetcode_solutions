@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0169-majority-element) |
 | [1980-find-unique-binary-string](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2615-sum-of-distances](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2615-sum-of-distances) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3039-apply-operations-to-make-string-empty) |
 ## String
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0038-count-and-say) |
 | [0647-palindromic-substrings](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [1980-find-unique-binary-string](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## Backtracking
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## Queue
 |  |
 | ------- |
