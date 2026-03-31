@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0565-array-nesting) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1046-last-stone-weight) |
+| [1052-grumpy-bookstore-owner](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+| [1052-grumpy-bookstore-owner](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## Queue
 |  |
