@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0198-house-robber](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0213-house-robber-ii) |
 | [0647-palindromic-substrings](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
