@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0213-house-robber-ii) |
 | [0647-palindromic-substrings](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3474-lexicographically-smallest-generated-string) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
