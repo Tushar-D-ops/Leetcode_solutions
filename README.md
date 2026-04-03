@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2615-sum-of-distances](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2906-construct-product-matrix) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3039-apply-operations-to-make-string-empty) |
 ## Counting
 |  |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -234,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0062-unique-paths) |
+## Enumeration
+|  |
+| ------- |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
