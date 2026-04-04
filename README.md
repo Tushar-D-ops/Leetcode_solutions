@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2615-sum-of-distances](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2906-construct-product-matrix) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0169-majority-element) |
 | [1980-find-unique-binary-string](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2615-sum-of-distances](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Topological Sort
 |  |
 | ------- |
@@ -235,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## String Matching
 |  |
 | ------- |
@@ -252,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2075-decode-the-slanted-ciphertext) |
+## Union-Find
+|  |
+| ------- |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 <!---LeetCode Topics End-->
