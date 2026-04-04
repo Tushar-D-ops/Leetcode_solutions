@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1052-grumpy-bookstore-owner) |
+| [1222-queens-that-can-attack-the-king](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1222-queens-that-can-attack-the-king) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0741-cherry-pickup](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0741-cherry-pickup) |
+| [1222-queens-that-can-attack-the-king](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1222-queens-that-can-attack-the-king) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1861-rotating-the-box](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1861-rotating-the-box) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1222-queens-that-can-attack-the-king](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1222-queens-that-can-attack-the-king) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 ## Union-Find
