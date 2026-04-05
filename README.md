@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1052-grumpy-bookstore-owner) |
+| [1219-path-with-maximum-gold](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1222-queens-that-can-attack-the-king) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1219-path-with-maximum-gold](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1219-path-with-maximum-gold) |
 | [1980-find-unique-binary-string](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 | [3669-balanced-k-factor-decomposition](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3669-balanced-k-factor-decomposition) |
 ## Divide and Conquer
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0741-cherry-pickup](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0741-cherry-pickup) |
+| [1219-path-with-maximum-gold](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1222-queens-that-can-attack-the-king) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
