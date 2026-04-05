@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1046-last-stone-weight) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Topological Sort
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -286,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0406-queue-reconstruction-by-height) |
+## Design
+|  |
+| ------- |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
