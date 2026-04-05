@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2785-sort-vowels-in-a-string](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2785-sort-vowels-in-a-string](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3039-apply-operations-to-make-string-empty) |
