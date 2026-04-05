@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
+| [3669-balanced-k-factor-decomposition](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3669-balanced-k-factor-decomposition) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
+| [3669-balanced-k-factor-decomposition](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3669-balanced-k-factor-decomposition) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2368-reachable-nodes-with-restrictions) |
+## Number Theory
+|  |
+| ------- |
+| [3669-balanced-k-factor-decomposition](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3669-balanced-k-factor-decomposition) |
 <!---LeetCode Topics End-->
