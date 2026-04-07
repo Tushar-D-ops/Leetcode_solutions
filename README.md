@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1222-queens-that-can-attack-the-king](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1222-queens-that-can-attack-the-king) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1914-cyclically-rotating-a-grid) |
+| [2069-walking-robot-simulation-ii](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 ## Union-Find
 |  |
@@ -294,5 +295,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
