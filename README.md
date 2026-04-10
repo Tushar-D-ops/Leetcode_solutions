@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0485-max-consecutive-ones](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0565-array-nesting](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0565-array-nesting) |
+| [0720-longest-word-in-dictionary](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0741-cherry-pickup](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0741-cherry-pickup) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1046-last-stone-weight) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0720-longest-word-in-dictionary](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0720-longest-word-in-dictionary) |
 | [1980-find-unique-binary-string](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0038-count-and-say) |
 | [0647-palindromic-substrings](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
+| [0720-longest-word-in-dictionary](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0720-longest-word-in-dictionary) |
 | [1980-find-unique-binary-string](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0406-queue-reconstruction-by-height](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0406-queue-reconstruction-by-height) |
+| [0720-longest-word-in-dictionary](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2785-sort-vowels-in-a-string](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2785-sort-vowels-in-a-string) |
@@ -297,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
+## Trie
+|  |
+| ------- |
+| [0720-longest-word-in-dictionary](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0720-longest-word-in-dictionary) |
 <!---LeetCode Topics End-->
