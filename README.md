@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0565-array-nesting) |
 | [0720-longest-word-in-dictionary](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0741-cherry-pickup](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0741-cherry-pickup) |
+| [0792-number-of-matching-subsequences](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1052-grumpy-bookstore-owner) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0720-longest-word-in-dictionary](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0720-longest-word-in-dictionary) |
+| [0792-number-of-matching-subsequences](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0792-number-of-matching-subsequences) |
 | [1410-html-entity-parser](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1410-html-entity-parser) |
 | [1980-find-unique-binary-string](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0647-palindromic-substrings](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [0720-longest-word-in-dictionary](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0720-longest-word-in-dictionary) |
+| [0792-number-of-matching-subsequences](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0792-number-of-matching-subsequences) |
 | [1410-html-entity-parser](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1410-html-entity-parser) |
 | [1980-find-unique-binary-string](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0406-queue-reconstruction-by-height](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0720-longest-word-in-dictionary](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0720-longest-word-in-dictionary) |
+| [0792-number-of-matching-subsequences](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2785-sort-vowels-in-a-string](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2785-sort-vowels-in-a-string) |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0213-house-robber-ii) |
 | [0647-palindromic-substrings](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [0741-cherry-pickup](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0741-cherry-pickup) |
+| [0792-number-of-matching-subsequences](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0792-number-of-matching-subsequences) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -228,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
+| [0792-number-of-matching-subsequences](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0792-number-of-matching-subsequences) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Linked List
 |  |
@@ -312,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0720-longest-word-in-dictionary) |
+| [0792-number-of-matching-subsequences](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0792-number-of-matching-subsequences) |
 ## Hash Function
 |  |
 | ------- |
