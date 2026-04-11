@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0720-longest-word-in-dictionary](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0720-longest-word-in-dictionary) |
+| [1410-html-entity-parser](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1410-html-entity-parser) |
 | [1980-find-unique-binary-string](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0038-count-and-say) |
 | [0647-palindromic-substrings](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [0720-longest-word-in-dictionary](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0720-longest-word-in-dictionary) |
+| [1410-html-entity-parser](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1410-html-entity-parser) |
 | [1980-find-unique-binary-string](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
