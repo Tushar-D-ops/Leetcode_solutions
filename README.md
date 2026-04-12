@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [0720-longest-word-in-dictionary](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0792-number-of-matching-subsequences](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0792-number-of-matching-subsequences) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1410-html-entity-parser](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1410-html-entity-parser) |
 | [1980-find-unique-binary-string](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0741-cherry-pickup) |
 | [0792-number-of-matching-subsequences](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0792-number-of-matching-subsequences) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
