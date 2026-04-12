@@ -58,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3669-balanced-k-factor-decomposition](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3669-balanced-k-factor-decomposition) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0136-single-number) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1222-queens-that-can-attack-the-king](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1222-queens-that-can-attack-the-king) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2075-decode-the-slanted-ciphertext) |
