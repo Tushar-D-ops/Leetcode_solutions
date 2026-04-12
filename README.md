@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3669-balanced-k-factor-decomposition](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3669-balanced-k-factor-decomposition) |
 ## Bit Manipulation
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [3669-balanced-k-factor-decomposition](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3669-balanced-k-factor-decomposition) |
 ## Binary Indexed Tree
 |  |
