@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3355-zero-array-transformation-i](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3355-zero-array-transformation-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3039-apply-operations-to-make-string-empty) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## String
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Backtracking
 |  |
 | ------- |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Simulation
 |  |
 | ------- |
