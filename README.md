@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1219-path-with-maximum-gold](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1222-queens-that-can-attack-the-king) |
+| [1267-count-servers-that-communicate](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3039-apply-operations-to-make-string-empty) |
 ## Greedy
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0741-cherry-pickup) |
 | [1219-path-with-maximum-gold](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1222-queens-that-can-attack-the-king) |
+| [1267-count-servers-that-communicate](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1861-rotating-the-box](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1861-rotating-the-box) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0565-array-nesting) |
 | [0802-find-eventual-safe-states](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Binary Tree
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
+| [1267-count-servers-that-communicate](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## String Matching
 |  |
@@ -297,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Number Theory
 |  |
