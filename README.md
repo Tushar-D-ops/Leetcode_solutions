@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0792-number-of-matching-subsequences) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1410-html-entity-parser](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1410-html-entity-parser) |
+| [1529-minimum-suffix-flips](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1529-minimum-suffix-flips) |
 | [1980-find-unique-binary-string](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1529-minimum-suffix-flips](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1529-minimum-suffix-flips) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Matrix
