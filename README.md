@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3039-apply-operations-to-make-string-empty) |
+| [3543-maximum-weighted-k-edge-path](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## String
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2463-minimum-total-distance-traveled](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [3543-maximum-weighted-k-edge-path](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3543-maximum-weighted-k-edge-path) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [3543-maximum-weighted-k-edge-path](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3543-maximum-weighted-k-edge-path) |
 ## Topological Sort
 |  |
 | ------- |
