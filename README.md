@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3355-zero-array-transformation-i](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3355-zero-array-transformation-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Two Pointers
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2523-closest-prime-numbers-in-range](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3669-balanced-k-factor-decomposition](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3669-balanced-k-factor-decomposition) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3543-maximum-weighted-k-edge-path) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## String
 |  |
