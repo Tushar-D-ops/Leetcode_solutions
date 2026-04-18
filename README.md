@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3669-balanced-k-factor-decomposition](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3669-balanced-k-factor-decomposition) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
