@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1861-rotating-the-box) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Math
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
 | [0792-number-of-matching-subsequences](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/0792-number-of-matching-subsequences) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Tushar-D-ops/Leetcode_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Linked List
 |  |
 | ------- |
